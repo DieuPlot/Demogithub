@@ -1,0 +1,10 @@
+C:\Users\TGDD-LENOVO\source\repos\DemoLoginFramework\DemoLoginFramework\bin\Debug\DemoLoginFramework.exe.config
+C:\Users\TGDD-LENOVO\source\repos\DemoLoginFramework\DemoLoginFramework\bin\Debug\DemoLoginFramework.exe
+C:\Users\TGDD-LENOVO\source\repos\DemoLoginFramework\DemoLoginFramework\bin\Debug\DemoLoginFramework.pdb
+C:\Users\TGDD-LENOVO\source\repos\DemoLoginFramework\DemoLoginFramework\obj\Debug\DemoLoginFramework.csproj.AssemblyReference.cache
+C:\Users\TGDD-LENOVO\source\repos\DemoLoginFramework\DemoLoginFramework\obj\Debug\DemoLoginFramework.Form1.resources
+C:\Users\TGDD-LENOVO\source\repos\DemoLoginFramework\DemoLoginFramework\obj\Debug\DemoLoginFramework.Properties.Resources.resources
+C:\Users\TGDD-LENOVO\source\repos\DemoLoginFramework\DemoLoginFramework\obj\Debug\DemoLoginFramework.csproj.GenerateResource.cache
+C:\Users\TGDD-LENOVO\source\repos\DemoLoginFramework\DemoLoginFramework\obj\Debug\DemoLoginFramework.csproj.CoreCompileInputs.cache
+C:\Users\TGDD-LENOVO\source\repos\DemoLoginFramework\DemoLoginFramework\obj\Debug\DemoLoginFramework.exe
+C:\Users\TGDD-LENOVO\source\repos\DemoLoginFramework\DemoLoginFramework\obj\Debug\DemoLoginFramework.pdb
